@@ -38,6 +38,7 @@
         <form id="myform">
             <h3 class="mb-2">选择可用线路</h3>
             <select class="form-select mb-2" size="5" id="domainLines">
+            <option selected>请点击选择可用线路</option>
                 {{each $data}}
                 <option value="{{$value.host}}">{{$value.title}}</option>
                 {{/each}}
