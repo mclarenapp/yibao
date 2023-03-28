@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*A线路-主线路",
+            "host":"https://a.yibao33.com"
+        },
+        {
+            "title":"*B线路-备用线路",
+            "host":"https://b.yibao33.com"
+        }
+    ]
+})
